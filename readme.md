@@ -1,4 +1,5 @@
 # Hey! Let's learn about GitHub commands! 
+contributed to by Aimee
 
 ## Follow this sequence in order to correctly fork and clone this repository:
 
